@@ -4,8 +4,8 @@
 #### Edição de textos com Markdown
 
 ## Tecnologias
-<img src= "https://th.bing.com/th/id/OIP.jWtU5DxKvW8-noeZlym0fAAAAA?w=400&h=400&rs=1&pid=ImgDetMain" style="width:120px"> GitHub<br>
-<img src="https://school.mosyle.com/images/animations/animated-app-lines/webp/com.microsoft.VSCode.webp" style="width:120px"> VS Code<br>  
+<img src= "https://th.bing.com/th/id/R.5fb011c4cce7177d20864cacd414243d?rik=3E8j3eUWJcTFWQ&riu=http%3a%2f%2fcdn.onlinewebfonts.com%2fsvg%2fimg_326384.png&ehk=wjNtP%2fRq0MO9KjRDtvcymW1NXDJ5orODhAFPVW306WA%3d&risl=&pid=ImgRaw&r=0" style="width:120px"> GitHub<br>
+<img src="https://th.bing.com/th/id/R.225fbbe09689a4a3219ae1e00fe2280b?rik=5bqX09pA9xFBlA&pid=ImgRaw&r=0" style="width:120px"> VS Code<br>  
 
 
 |Linguagem|Descrição|
