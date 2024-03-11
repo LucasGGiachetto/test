@@ -4,7 +4,7 @@
 #### Edição de textos com Markdown
 
 ## Tecnologias
-<img src= "https://cdn.tutsplus.com/net/uploads/2013/08/github-collab-retina-preview.gif" style="width:120px"> GitHub<br>
+<img src= "https://androidstudiofaqs.com/wp-content/uploads/2015/11/github.gif" style="width:120px"> GitHub<br>
 <img src="https://th.bing.com/th/id/R.225fbbe09689a4a3219ae1e00fe2280b?rik=5bqX09pA9xFBlA&pid=ImgRaw&r=0" style="width:120px"> VS Code<br>  
 
 
